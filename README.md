@@ -23,6 +23,10 @@ Curated List of Open-Source Trading Bot Libraries and Tools in Go, JavaScript, a
 - [https://github.com/goex-top/awesome-go-quant](https://github.com/goex-top/awesome-go-quant)
 
 # c++
+- [https://learnxinyminutes.com/docs/c/](https://learnxinyminutes.com/docs/c/)
+- [https://learnxinyminutes.com/docs/c++/](https://learnxinyminutes.com/docs/c++/)
+- [https://google.github.io/styleguide/cppguide.html](https://google.github.io/styleguide/cppguide.html)
+- [https://github.com/Microsoft/AirSim/blob/master/docs/coding_guidelines.md](https://github.com/Microsoft/AirSim/blob/master/docs/coding_guidelines.md)
 - [https://github.com/isocpp/CppCoreGuidelines](https://github.com/isocpp/CppCoreGuidelines)
 - [https://github.com/fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp)
 - [https://github.com/wuye9036/CppTemplateTutorial](https://github.com/wuye9036/CppTemplateTutorial)
@@ -30,3 +34,4 @@ Curated List of Open-Source Trading Bot Libraries and Tools in Go, JavaScript, a
 - [https://github.com/ShiqiYu/CPP](https://github.com/ShiqiYu/CPP)
 - [https://github.com/AllAlgorithms/cpp](https://github.com/AllAlgorithms/cpp)
 - [https://github.com/changkun/modern-cpp-tutorial](https://github.com/changkun/modern-cpp-tutorial)
+- [https://github.com/AnthonyCalandra/modern-cpp-features](https://github.com/AnthonyCalandra/modern-cpp-features)
